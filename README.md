@@ -5,3 +5,5 @@ Questões feitas para auxiliar os novos estudantes de Ciência da Computação U
 * [Variáveis](./01%20-%20Variáveis)
 ### Tópico 2: Condições - IF, ELSEIF e ELSE
 * [Condições](./02%20-%20Condições)
+### Tópico 3: Laços de Repetição
+* [Laços de Repetição](./03%20-%20Laços%20de%20repetição)
