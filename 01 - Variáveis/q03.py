@@ -1,3 +1,5 @@
+#questao 3
+
 num = int(input('insira um numero: '))
 
 cubo = num**3
