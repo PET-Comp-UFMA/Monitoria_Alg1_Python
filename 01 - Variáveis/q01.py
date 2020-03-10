@@ -7,4 +7,4 @@ print("Hello World!")
 
 #a função print deve conter o parentesis () e dentro dele, entre aspas, 
 #LITERALMENTE o conteúdo a ser impresso na tela, caso tenha uma variável e que não esteja entre aspas
-#a função print irá printar o valor da variável
+#a função print irá printar o valor da variávels
