@@ -1,6 +1,6 @@
 #Questão 3
 #Faça um algoritmo para ler um vetor de 30 números. Após isto, receba mais um número N
-#qualquer, para calcular quantas vezes esse número aparece no vetor.'''
+#qualquer, para calcular quantas vezes esse número aparece no vetor.
 
 import random
 
