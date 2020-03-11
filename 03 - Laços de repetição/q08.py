@@ -1,7 +1,4 @@
-#Questão 3 - Divisores
-#Classificação: Laços de repetição
-#Dificuldade: Fácil
-
+#Questão 8
 #Crie um algoritmo que imprima todos os divisores de um número dado pelo usuário, com exceção do próprio número.
 
 numero = int(input("Digite um número: "))

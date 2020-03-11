@@ -1,7 +1,6 @@
-'''
-Questão 6
-Faça uma função que converta uma temperatura dada em Fahrenheit para Celsius ou Kelvin,
-dependendo da conversão sinalizada.'''
+#Questão 6
+#Faça uma função que converta uma temperatura dada em Fahrenheit para Celsius ou Kelvin,
+#dependendo da conversão sinalizada.
 
 def converteTemp(temperatura, escala):
     escala = escala.lower()

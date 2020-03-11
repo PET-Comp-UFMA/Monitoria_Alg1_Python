@@ -1,9 +1,8 @@
-'''
-Questão 1
-Faça uma função que receba a altura (m), e o gênero de um(a) atleta (M ou F), e que retorne o peso
-ideal (Kg) para esse indivíduo. Utilize as seguintes fórmulas:
-Homens: (72.3 * h) - 58.2
-Mulheres: (62.7 * h) - 45.2'''
+#Questão 1
+#Faça uma função que receba a altura (m), e o gênero de um(a) atleta (M ou F), e que retorne o peso
+#ideal (Kg) para esse indivíduo. Utilize as seguintes fórmulas:
+#Homens: (72.3 * h) - 58.2
+#Mulheres: (62.7 * h) - 45.2
 
 def pesoIdeal(altura, genero):
     if genero == "m" or genero == "M":

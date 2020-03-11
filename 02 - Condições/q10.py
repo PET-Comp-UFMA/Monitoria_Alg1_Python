@@ -1,9 +1,8 @@
-'''
-Questão 10
-Dado os três lados de um triângulo, faça um programa que indique se esse triângulo é equilátero,
-isósceles ou escaleno.
-OBS: Observe que os lados só formam um triângulo se o comprimento de cada lado for sempre menor
-que a soma dos outros dois lados.(Exiba uma mensagem de erro, caso o critério não seja satisfeito).'''
+#Questão 10
+#Dado os três lados de um triângulo, faça um programa que indique se esse triângulo é equilátero,
+#isósceles ou escaleno.
+#OBS: Observe que os lados só formam um triângulo se o comprimento de cada lado for sempre menor
+#que a soma dos outros dois lados.(Exiba uma mensagem de erro, caso o critério não seja satisfeito).
 
 lado1 = int(input("Digite a medida do primeiro lado: "))
 lado2 = int(input("Digite a medida do segundo lado: "))

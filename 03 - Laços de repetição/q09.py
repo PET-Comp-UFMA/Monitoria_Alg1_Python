@@ -1,7 +1,4 @@
-#Questão 4 - Soma dos números pares e ímpares
-#Classificação: Laços de repetição
-#Dificuldade: Fácil
-
+#Questão 9
 #Crie um algoritmo que printe a soma de todos os números pares e a soma de todos os números ímpares de um intervalo dado pelo usuário.
 
 somaPar, somaImpar = 0, 0

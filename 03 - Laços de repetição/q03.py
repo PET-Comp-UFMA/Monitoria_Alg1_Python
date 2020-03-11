@@ -1,7 +1,4 @@
-#Questão 2 - Número primo
-#Classificação: Laços de repetição
-#Dificuldade: fácil
-
+#Questão 2
 #Crie um algoritmo que receba um número natural e informe se ele é ou não primo
 #Um número primo é um número natural diferente de 1 que é divisível apenas por 1 e ele mesmo (Ex: 2, 3, 5, 7, 11, 13...)
 

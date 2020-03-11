@@ -1,4 +1,3 @@
-
 numero = 0
 maior = numero
 menor= 0
