@@ -7,9 +7,10 @@ serem feitas.'''
 
 import random
 
+tamanho = int(input("Digite o tamanho do vetor: "))
 vetor = []
 
-for i in range(0, 10):
+for i in range(0, tamanho):
     vetor.append(random.randint(1,20))
 
 print(vetor)
