@@ -1,3 +1,16 @@
+"""
+Faça um programa que peça ao usuário 3 números e então retorne quais desses números é o maior.
+
+Exemplo:
+        Entrada     Saída
+        1, 2, 3     3
+        12, 45, 11  45
+        -3, -1, -50 -1
+        
+"""
+
+#Solução
+
 n1, n2, n3 = int(input()),int(input()),int(input())
 
 if n1>n2 and n1>n3 :
