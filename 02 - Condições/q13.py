@@ -1,3 +1,17 @@
+"""
+Faça um programa que peça ao usuário que digite 3 números de 1 a 5 e então retorne
+para ele quais números desse intervalo não foram digitados.
+
+Exemplo:
+        Entrada     Saída
+        1, 2, 3     4, 5
+        2, 3, 2     1, 4, 5
+        1, 1, 1     2, 3, 4, 5
+      
+"""
+
+#Solução
+
 n1,n2,n3 = int(input()),int(input()),int(input())
 
 if n1!=1 and n2!=1 and n3!=1 :
