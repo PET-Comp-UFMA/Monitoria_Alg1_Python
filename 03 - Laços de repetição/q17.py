@@ -1,6 +1,6 @@
 """
 
-Faça um programa que recema um número em binário e então o converta para decimal.
+Faça um programa que receba um número em binário e então o converta para decimal.
 
 Exemplo:
         Entrada     Saída
