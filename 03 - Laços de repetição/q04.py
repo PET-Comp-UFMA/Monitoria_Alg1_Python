@@ -1,3 +1,16 @@
+"""
+
+Escreva um programa que receba inteiros até o usuário dar
+entrada em um número negativo, e ao final mostre qual foi o
+maior e o menor número recebido, bem como quantas vezes os 
+mesmos foram inseridos.
+
+Exemplo: Entrada        Saída
+         1,2,3,4,4,1,-1 maior: 4, ocorreu 2 vezes
+                        menor: 1, ocorreu 2 vezes
+
+"""
+
 numero = 0
 maior = numero
 menor= 0
