@@ -7,7 +7,7 @@ imprima quantos valores negativos foram inseridos.
 cont = 0
 print("Digite 10 valores")
 
-for i in range(9):
+for i in range(10):
     valor = int(input())
     if valor < 0:
         cont = cont + 1
