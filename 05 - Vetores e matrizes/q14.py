@@ -1,6 +1,6 @@
 """
 
-Faca um rograma que verifique se o utimo elemento de uma lista é uma 
+Faca um programa que verifique se o último elemento de uma lista é uma 
 combinação dos outros elementos em ordem.
 
 Exemplo:
