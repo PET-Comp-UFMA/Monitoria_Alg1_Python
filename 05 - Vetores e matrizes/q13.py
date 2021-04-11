@@ -1,7 +1,7 @@
 """
 
 Crie um programa que receba um elemento (inteiro ou string) e mostre todos
-os índices de ocorrencia desse parâmetro em uma lista em uma lista.
+os índices de ocorrencia desse parâmetro em uma lista.
 
 Exemplo
         Entrada                     Saída
