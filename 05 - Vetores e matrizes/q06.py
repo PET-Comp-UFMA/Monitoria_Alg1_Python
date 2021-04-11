@@ -1,7 +1,11 @@
-#Faça um programa que receba do usurário 10 números. O programa deverá calcular a
-#quantidade de elementos pares e imprimir cada elemento. Deverá também calcular e exibir a
-#soma de todos esses elementos. Caso nenhum dos elementos sejam pares, exiba a seguinte
-#mensagem: "Não há elementos pares".
+"""
+
+Faça um programa que receba do usurário 10 números. O programa deverá calcular a
+quantidade de elementos pares e imprimir cada elemento. Deverá também calcular e exibir a
+soma de todos esses elementos. Caso nenhum dos elementos sejam pares, exiba a seguinte
+mensagem: "Não há elementos pares".
+
+"""
 
 vetor = []
 for i in range(0, 10):
