@@ -1,3 +1,16 @@
+"""
+
+Faça um programa que receba uma matriz de ordem n e depois a imprima na tela,
+seguida de sua transposta, sua diagonal principal e seu triângulo superior.
+
+Exemplo:
+Entrada:    Saída
+1 2 3       1 2 3   1 4 7   1    2 3
+4 5 6       4 5 6   2 5 8    5     6
+7 8 9       7 8 9   3 6 9     9
+
+"""
+
 import random
 
 random.seed(1)
