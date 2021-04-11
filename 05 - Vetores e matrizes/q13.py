@@ -6,7 +6,7 @@ os índices de ocorrencia desse parâmetro em uma lista.
 Exemplo
         Entrada                     Saída
         [1,2,2,1,4,3], 2            [1,2]
-        ["a","a","b","a","c"],"a"   [0,1,3]
+        ["a","a","b","a"],"a"       [0,1,3]
 
 """
 
