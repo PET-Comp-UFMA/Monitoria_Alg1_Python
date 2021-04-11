@@ -4,6 +4,11 @@ Crie um programa que verifique se em uma lista preenchida por inteiros
 seus componentes podem ser organizados para formar uma lista de números
 consecultivos e sem repetições.
 
+Exemplo
+Entrada                 Saída
+[1, 4, 3, 6, 5, 0, 2]   [0, 1, 2, 3, 4, 5, 6] true
+[1, 5, 6, 2]            [1, 2, 5, 6] false
+
 """
 
 #Solução
