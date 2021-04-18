@@ -14,8 +14,12 @@ em cada uma das potências de 2 a 10, e mostre para quais casos ele é.
 #Solução
 
 import math
+flag = False
 num=int(input())
 digit=int(math.pow(10,len(str(num))))
 for i in range(2, 11, 1):
     if (abs(math.pow(num,i))%digit)==num:
         print(i, end=" ")
+        flag=True
+if flag==False:
+    print("O numero não é automórfico.")
